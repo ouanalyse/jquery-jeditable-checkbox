@@ -1,0 +1,19 @@
+{
+  "name": "ouanalyse-jquery-jeditable-checkbox",
+  "version": "1.0.0",
+  "description": "checkbox plugin for jquery jeditable",
+  "main": "jquery.jeditable.checkbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ouanalyse/jquery-jeditable-checkbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ouanalyse/jquery-jeditable-checkbox/issues"
+  },
+  "homepage": "https://github.com/ouanalyse/jquery-jeditable-checkbox#readme"
+}
